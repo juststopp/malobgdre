@@ -1,7 +1,7 @@
 - Item1
 - Item2
 
-**En gras**, __souligné__, `code block`
+**En gras**, _souligné_, `code block`
 
 ```js
 function hello() {
