@@ -15,7 +15,7 @@ I am a young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 I have been learning development since 2020.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I learn new languages and technologies.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-juststopp-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malo-beaugendre-a5aa4326a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Malo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malo-beaugendre-a5aa4326a/)
 
 ---
 
