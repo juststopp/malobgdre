@@ -5,8 +5,6 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=malobgdre&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
