@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/malo-beaugendre-a5aa4326a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=juststopp&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=malobgdre&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -35,6 +35,5 @@ I am a young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malobgdre&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malobgdre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
